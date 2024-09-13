@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+
+}
+
+main {
+    width: 1120px;
+    margin: 88px auto 80px;
+    
+}
+
+h1 {
+    text-align: left;
+    font-family: "Open Sans", sans-serif;
+    font-size: 32px;
+    height: 49px;
+    margin-bottom: 48px;
+
+}
+
+h2 {
+    text-align: left;
+    font-family: "Open Sans", sans-serif;
+    font-size: 32px;
+    height: 49px;
+    margin-bottom: 4px;
+    margin-top: 20px;
+}
+
+.apresentacao{
+    text-align: left;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #E1624F;
+    margin-bottom: 8px;
+}
+
+.bom {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+section {
+    margin-bottom: 48px;
+}
+
+#descricao {
+    text-align: center;
+    font-style: italic;
+    color: #333333;
+    margin-bottom: 40px;
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    color: #333333;
+    text-align: left;
+    margin-bottom: 48px;
+}
+
+img {
+    max-width: 100%;
+    height: 350px;
+    width: 1120px;
+    object-fit: cover;
+}
+
+#historia {
+    color: #0C51A7;
+}
+
+#casais {
+    color: #591B98;
+  }
+
+#familia {
+    color: #E5245E;
+}
+
+#orcamento {
+    color: #E95E10;
+}
+
+footer {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 65px;
+}
+
+.divider {
+    width: 100%;
+    height: 1px;
+    margin: 36px 0;
+    background-color: #d9d9d9;
+}
+  
